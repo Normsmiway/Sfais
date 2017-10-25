@@ -27,7 +27,6 @@ C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\MongoDB.Driver.Core.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\MongoDB.Driver.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\MongoDB.Driver.Legacy.dll
-C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\NBitcoin.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\Newtonsoft.Json.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Net.Http.Formatting.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Cors.dll
@@ -51,7 +50,6 @@ C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\MongoDB.Driver.xml
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\MongoDB.Driver.Core.xml
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\MongoDB.Driver.Legacy.xml
-C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\NBitcoin.xml
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Http.Cors.xml
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Optimization.xml
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Razor.xml
@@ -66,4 +64,3 @@ C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Http.WebHost.xml
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\obj\Debug\Sfais.web.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\obj\Debug\Sfais.web.pdb
-C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\obj\Debug\Sfais.web.csprojResolveAssemblyReference.cache

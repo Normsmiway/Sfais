@@ -29,7 +29,6 @@ C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\MongoDB.Driver.Legacy.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\Newtonsoft.Json.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Net.Http.Formatting.dll
-C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Cors.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Helpers.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Http.Cors.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Http.dll
@@ -64,3 +63,4 @@ C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Http.WebHost.xml
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\obj\Debug\Sfais.web.dll
 C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\obj\Debug\Sfais.web.pdb
+C:\Users\Arewa Deal Online Lt\Documents\Visual Studio 2015\Projects\Sfais\Sfais.web\bin\System.Web.Cors.dll
